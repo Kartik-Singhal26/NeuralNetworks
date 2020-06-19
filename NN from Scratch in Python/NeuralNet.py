@@ -213,7 +213,7 @@ class NeuralNetwork_2HiddenLayers():
         #Plot
         plt.plot(self.loss)
         plt.xlabel('Number of Iterations')
-        plt.ylabel('Log(loss)')
+        plt.ylabel('Calculated Loss')
         plt.title('Loss curve of training the Neural Network')
         plt.text(x,y,'Training Accuracy: {}'.format(round(Train,2)), fontsize=10)
         plt.text(x,(y + 0.1),'Testing Accuracy: {}'.format(round(Test,2)), fontsize=10)
@@ -358,7 +358,7 @@ class NeuralNetwork_3HiddenLayers():
         #Plot
         plt.plot(self.loss)
         plt.xlabel('Number of Iterations')
-        plt.ylabel('Log(loss)')
+        plt.ylabel('Calculated Loss')
         plt.title('Loss curve of training the Neural Network')
         plt.text(x,y,'Training Accuracy: {}'.format(round(Train,2)), fontsize=10)
         plt.text(x,(y + 0.1),'Testing Accuracy: {}'.format(round(Test,2)), fontsize=10)

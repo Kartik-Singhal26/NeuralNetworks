@@ -1,0 +1,401 @@
+Name,Song_ID,Acoustic,Energy,Liveness,Loudness,BPM,Danceability,Mood
+still feel.,48XkVAagIoQHCsOlJtXUd5,0.148,0.516,0.0492,-6.467,120.026,0.779,Groovy
+No One Else Like You,6CdV33i2ztlvFheXGz4Huc,0.0265,0.815,0.29,-3.904,115.95,0.625,Groovy
+Space Bound,2S9Hmv3pv86ScVA8XnFmOW,0.0451,0.885,0.46,-3.464,142.02,0.671,HypeEnergy
+Neele Neele Ambar Par - Male Version,02zPo0Dt0R4TTFY5zLJZnK,0.628,0.696,0.172,-7.612,93.801,0.562,Acoustic
+Cinder and Smoke,6a20J6YFMYUjUZ7WnuJYZu,0.864,0.3,0.104,-14.641,112.178,0.731,Acoustic
+Zindagi Kya Hai,2z1Xg80suoK9wf95H5lit3,0.319,0.412,0.126,-9.637,86.007,0.595,Acoustic
+Prada,6wWxQMhQgOCbmQkdOGslT4,0.0361,0.65,0.358,-5.426,156.008,0.721,DanceEnergy
+Carry You,0u4rkpmNtgcFxYHepnVF4v,0.558,0.397,0.126,-7.993,92.291,0.334,Acoustic
+Aas Paas Khuda (Unplugged),0hVXFWS00liq3W2YAQUma4,0.881,0.305,0.133,-7.578,79,0.453,Mellow
+"Yunhi Rastay Mai - From ""7 Din Mohabbat In""",76X0ptAJY5nsZALOM84JzY,0.697,0.138,0.0925,-13.772,156.141,0.472,Mellow
+"Chan Kitthan (From ""Chan Kitthan"")",4OffmzjuxT6e9y8E6VDG2i,0.355,0.538,0.108,-7.665,95.993,0.693,Groovy
+Ocean,4BL4aEbddW0OGv6fFYYFUt,0.963,0.237,0.0952,-11.665,125.335,0.72,Groovy
+Sahiba,2LndjaqEYqOFZlucJOj4E1,0.14,0.755,0.0618,-3.843,156.025,0.747,DanceEnergy
+Blue Theme,3iz38ks5UWQepz9oJok4T2,0.0774,0.842,0.0905,-6.516,95.039,0.716,DanceEnergy
+Be My Mistake,18UsAG7SfOQ5sxJEdjAMH0,0.835,0.155,0.0906,-14.405,109.923,0.572,Groovy
+I Lost a Friend,49MMefftWPcltNP4OOJGSs,0.587,0.209,0.119,-11.917,169.316,0.453,Groovy
+Kali Range,4X7o22XGFJtQANlUXmuOFP,0.016,0.533,0.126,-7.122,176.018,0.612,DanceEnergy
+Someone You Loved,5aQDkvNNDDfwD2XHtW9xjq,0.856,0.355,0.124,-6.125,109.917,0.631,Mellow
+Royalty,4kad7RSRCt8ttCkIjEmErs,0.124,0.634,0.0411,-3.89,86.54,0.683,Groovy
+Real Estate,2VvTMIXG760UiG9OSiFt9j,0.953,0.284,0.151,-12.815,79.959,0.493,Groovy
+3 Nights,0uI7yAKUf52Cn7y3sYyjiX,0.223,0.518,0.104,-6.594,151.891,0.815,Groovy
+Love The Way You Lie,15JINEqzVMv3SvJTAXAKED,0.241,0.925,0.52,-5.034,86.989,0.749,HypeEnergy
+Pyaar Ka Pehla Khat,75hsymuPkvUvQKsz54LigZ,0.582,0.391,0.126,-12.067,93.009,0.692,Mellow
+Ari Ari (Part 1),6dWQ9E5mFjQZA7ujh3wd2Z,0.00085,0.918,0.0619,-2.487,98.071,0.758,DanceEnergy
+The Scientist,2CX2fjnKQYwiLf7kPwNZne,0.71,0.438,0.107,-7.474,146.449,0.569,Acoustic
+Pretty Polly,1JHXH2EWYksXdE9CRGTzQ3,0.7,0.459,0.0737,-9.977,88.358,0.654,Groovy
+Falling for the Wrong One,5C4XCvAKImh0IGPCKbPPo6,0.0273,0.673,0.317,-8.266,118.968,0.665,Acoustic
+Laps Around The Sun,68ZVCePM9IP0MSbcmeZuup,0.475,0.472,0.11,-10.047,110.024,0.768,Acoustic
+Letter From Last Summer,3wSBwiesNLtpHwXVi3l2oH,0.877,0.1,0.121,-18.499,145.016,0.445,Acoustic
+Malibu Nights,0Eqg0CQ7bK3RQIMPw1A7pl,0.701,0.422,0.0853,-11.89,74.002,0.559,Acoustic
+Next to You,3MwHZDGwAR8RjZZBriBqmx,0.633,0.419,0.404,-7.975,132.204,0.443,Acoustic
+Woh Kaghaz Ki Kashti,6qtSFL6qFbw7EmaRIsS0IR,0.909,0.48,0.0944,-12.556,108.178,0.705,Mellow
+Human,58zsLZPvfflaiIbNWoA22O,0.393,0.707,0.165,-4.097,75.09,0.602,Groovy
+Jeen Di Gal,0uvIRm0BbBs0F4iCSq2FuK,0.632,0.312,0.153,-19.574,151.942,0.656,Mellow
+Hold Me While You Wait,6700Z4Izi8EbB6JNthU6Ma,0.443,0.53,0.0995,-5.507,106.958,0.688,Acoustic
+Mizaaj,0PivOoKM1sECNTsZ7K6N3h,0.00643,0.701,0.403,-5.905,138.05,0.536,Groovy
+Such A Simple Thing,4PuUa8e5s7P3Zv1IdCGIsa,0.86,0.256,0.142,-11.216,76.35,0.522,Acoustic
+Naah,0zRsGGueSQLRkYWs4kPA4V,0.62,0.863,0.0972,-2.539,99.981,0.715,DanceEnergy
+Beparwah,6DLdRRieCPBwUND4P9xmVn,0.0693,0.701,0.0938,-6.221,120.129,0.626,Mellow
+Someone New,22sS7JkzeVeq4vOPCB6Fbj,0.407,0.539,0.286,-5.946,91.98,0.593,Groovy
+Qismat,3EqgnmFJIarfSqSdBWMI8r,0.498,0.744,0.381,-5.105,87.726,0.43,Groovy
+"That Sea, the Gambler",5Myb8jMUiTyCpOXmN9laX3,0.38,0.367,0.0975,-9.7,117.527,0.379,Acoustic
+Bruises,4Of7rzpRpV1mWRbhp5rAqG,0.946,0.308,0.186,-7.83,111.202,0.736,Groovy
+O Re Piya,7cWnks0lsRtpAi87COOiXK,0.779,0.532,0.124,-8.837,99.994,0.586,Mellow
+Ikk Kudi,1NgRBQQD8ZHy6lv79KyeZO,0.723,0.374,0.135,-6.731,120.035,0.641,Mellow
+Rose Petals,0NJ1LV5VblYyJsJt3EbAx7,0.888,0.282,0.0812,-11.956,127.964,0.562,Acoustic
+Bandey,2sNMcxZh7AwImXtrv8UV3S,0.0112,0.621,0.109,-7.506,92.025,0.658,Groovy
+When We Were On Fire - The Dark Of The Morning Version,3wn7gh5nm7v5CHNp7Gdp8j,0.365,0.414,0.092,-8.485,115.965,0.801,Groovy
+Angreji Beat,4psVrPZy07uZTLwc3Mqz4V,0.204,0.998,0.0653,-1.558,119.961,0.851,DanceEnergy
+Do You Rise,0KalsY81HsAAVUxZy9qUFz,0.841,0.223,0.0947,-19.5,99.75,0.36,Groovy
+To Build A Home,54KFQB6N4pn926IUUYZGzK,0.885,0.122,0.094,-15.399,148.658,0.264,Groovy
+Tere Aane Ki Jab Khabar Mehke,4QpOqCNx9L7Vy2ThfXOYDf,0.597,0.242,0.105,-18.064,90.635,0.681,Mellow
+Kali Kali Zulfon Ke Phande Nah Dalo,41p2AWpXt0QF4GFlsxVowq,0.662,0.674,0.267,-12.845,138.699,0.435,Mellow
+Sense of Home,68wibJU4yMiqNX79IaLAsN,0.892,0.207,0.102,-10.926,139.933,0.564,Acoustic
+Bewafa,4FcknXDJ8yW2QYUl0cm6uJ,0.594,0.563,0.133,-4.739,94.037,0.704,DanceEnergy
+Kaash,6vehOXDA0LRsCa4bk6d5qP,0.431,0.569,0.0773,-6.82,175.909,0.59,Groovy
+Peer Pressure,4RE3vueod5PL48rvHtuu9C,0.0299,0.715,0.122,-6.083,135.826,0.631,Groovy
+Helpless,77tiA6g0DZDMwfE7mMlNQc,0.414,0.436,0.119,-6.401,130.019,0.54,Acoustic
+Senorita,3TAhWtQnpoL5Vl9VQPl9fU,0.134,0.681,0.064,-6.442,122.539,0.701,DanceEnergy
+"Dark, Dark, Dark",2kZL56r1MaqmXD7yCKUHRj,0.829,0.618,0.17,-8.192,130.234,0.485,Acoustic
+Dil Haare,26u6HGjzExhRZD5ifgTBnG,0.175,0.576,0.127,-7.976,128.059,0.625,Acoustic
+Dark Four Door,6zDTtydfcDi0Lwjr8PyDYL,0.942,0.215,0.1,-11,118.225,0.727,Groovy
+State Lines,7CoMBpPTwQi2wPT0U0Nr9b,0.959,0.309,0.0963,-10.623,137.462,0.514,Acoustic
+'Till I Collapse,4xkOaSrkexMciUUogZKVTS,0.0622,0.847,0.0816,-3.237,171.447,0.548,HypeEnergy
+Phir Le Aya Dil - Reprise,7fpWJr5shT90KiCHXKHxch,0.838,0.545,0.0961,-8.92,77.727,0.231,Mellow
+3 Peg,3G8o2zm7LaF6eeVuvLlrkJ,0.14,0.926,0.112,-0.223,167.927,0.69,DanceEnergy
+Jaani Tera Naa,0LZA36VEmc6n0Y7X29zIgE,0.0653,0.882,0.11,-2.864,93.99,0.776,HypeEnergy
+Groves,757DyuUC1zOFo7BNPQBZxt,0.55,0.332,0.285,-10.213,130.006,0.522,Groovy
+Hold My Girl,42bbDWZ8WmXTH7PkYAlGLu,0.597,0.527,0.11,-6.374,121.941,0.614,HypeEnergy
+Ilahi,5cgKosPPj5Cs9a2JQufUc1,0.166,0.967,0.105,-5.767,132.009,0.594,HypeEnergy
+Nuktachin Hai,3CFzwmScMbXyV1bXOUfzJ2,0.669,0.414,0.115,-12.03,176.025,0.493,Mellow
+Black Bear,2BuMmK2Yguu6vQf1PJ2xQu,0.0857,0.633,0.197,-6.383,138.049,0.46,Groovy
+Guiding Light,3CJakOJKCXKbTgqf2anMd1,0.709,0.22,0.101,-12.008,133.667,0.44,Acoustic
+Little Light,5ofPVNOR2T8cHMhLGUTrbN,0.122,0.545,0.113,-10.457,59.332,0.297,Groovy
+Defaulter,260lfDzVnZHXmIXIvKUNVz,0.251,0.846,0.324,-2.393,171.996,0.761,DanceEnergy
+Kho Gaye Hum Kahan,6nZiYSBwPQ7fYnVWkkkj4g,0.983,0.227,0.113,-16.191,116.033,0.778,Mellow
+Mysore Se Ayi,3oXygAEuFopjsohfGjQfv7,0.0747,0.79,0.0612,-7.382,102.978,0.658,HypeEnergy
+Ambar,6J8qcTesEfzpGhZjBa6kfV,0.771,0.335,0.105,-6.902,76.173,0.507,Groovy
+Zindagi Kuch Toh Bata (Reprise),6SHpwJdlfG0llFBMPNM9H5,0.487,0.615,0.104,-7.118,123.94,0.53,Groovy
+Where's My Love - 3,0ElpbbncWT9aS7mgoqEHbQ,0.892,0.225,0.107,-11.324,104.007,0.554,Acoustic
+The King is Dead,0CX3U3R4YgdoEA75UKOjX1,0.158,0.639,0.103,-6.59,100.033,0.754,HypeEnergy
+Promise,4qyfir5Yr7nfo05g6cyFMT,0.889,0.189,0.364,-15.736,156.643,0.367,Groovy
+Hard to Do,0qJeZTmw4jch2kU34szvuR,0.789,0.359,0.109,-7.032,77.592,0.339,Groovy
+The Night We Met,6mORGLOz79w6VsCRLWYYuK,0.969,0.369,0.638,-9.514,174.107,0.443,Mellow
+Bookstore Girl,6IGejZNdxjCsWQumaHD6LE,0.852,0.159,0.0991,-18.066,129.971,0.615,Acoustic
+Where's My Love - Alternate Version,5IH7HQEWhToZnMQTZRzp1H,0.904,0.219,0.108,-11.805,103.768,0.382,Acoustic
+Bheegi Bheegi Raton Mein,3czT4fZGk8us5RpAU3X3KM,0.52,0.476,0.29,-11.201,103.064,0.645,Mellow
+Moh Moh Ke Dhaage (Male),189DQylImZ1hGZaIpAQUzx,0.741,0.344,0.111,-11.011,128,0.634,Mellow
+Almost (Sweet Music),7uttm8Iurm5uK67Vr9G2Sp,0.0215,0.687,0.203,-5.601,90.036,0.523,HypeEnergy
+Too Much To Ask,39jXnbACjiaiTwwhsr5sY5,0.371,0.533,0.128,-6.549,77.342,0.443,HypeEnergy
+Kagaz Ki Kashti,1ZIEzrjzNaHuGtINjO3L2m,0.773,0.365,0.85,-14.078,117.785,0.655,Mellow
+Heal,4KlL5Bwlm4yHYxr0B2rHci,0.952,0.179,0.107,-12.938,72.255,0.444,HypeEnergy
+Above The Clouds Of Pompeii,6ZEQGFl71YQdHpLBsxdJKs,0.853,0.382,0.0806,-12.466,100.739,0.563,Groovy
+I Won't Give Up,5ivF4eQBqJiVL5IAE9jRyl,0.694,0.303,0.115,-10.058,136.703,0.585,Groovy
+Joyride,0VcVy0kpfwyd5rMS5URyVD,0.201,0.505,0.144,-7.197,131.909,0.52,Groovy
+Days Like These,2T27px3MpCEHt3ERr4Z9kZ,0.828,0.213,0.116,-13.175,155.829,0.402,Acoustic
+Halka Halka,2Hu0FRBMFDmEhajRzvNN6T,0.396,0.695,0.308,-4.446,115.051,0.626,Mellow
+Patang,0LnlTTgv5253a2I287jiuq,0.738,0.305,0.104,-7.769,127.054,0.295,Groovy
+River (feat. Ed Sheeran),1cS0TgbR263ey9jn0MwD2s,0.142,0.749,0.0713,-5.916,90.09,0.748,HypeEnergy
+"Dil Beparvah - The Dewarists, Season 5",4kXkT9HF9ZfDjuv3LIKcwJ,0.867,0.391,0.112,-11.735,137.956,0.762,Mellow
+Atlantis,1Fid2jjqsHViMX6xNH70hE,0.0529,0.479,0.115,-7.989,166.159,0.4,HypeEnergy
+"Sanu Ek Pal Chain (From ""Raid"")",4wANB882g1ZhF2V8ugksY1,0.545,0.813,0.105,-6.099,139.998,0.71,Mellow
+So High,03XaJGeg4MuBxxxnaH3fWG,0.0152,0.763,0.109,-6.346,180.001,0.537,DanceEnergy
+8 Parche,42ETKyApzUl8hTtytFAjen,0.161,0.862,0.203,-2.29,173.859,0.652,DanceEnergy
+If the World Was Ending - feat. Julia Michaels,2kJwzbxV2ppxnQoYw4GLBZ,0.866,0.473,0.109,-10.086,75.801,0.464,Groovy
+Aakhri Salaam,67mmy7Mhim6DmeFHHoqptH,0.147,0.651,0.196,-8.507,173.922,0.467,Groovy
+Abhi Mujh Mein Kahin,73y649QhnXdcm6fRdvfraO,0.755,0.387,0.113,-9.483,129.959,0.334,Mellow
+I Knew This Would Be Love,6r44uyKRo3jKFRkThTZBXu,0.958,0.117,0.108,-13.048,120.611,0.643,Acoustic
+Ghar Jab Bana Liya,4xoIZVpAoaAcx6pN3AdEif,0.597,0.709,0.224,-9.345,139.962,0.654,Mellow
+Nit Khair Manga,1vG2VKmXPAXrYush08oZLy,0.482,0.694,0.757,-5.356,119.036,0.782,Groovy
+Man on a Wire,4b30rxe4kxjNl8YpE17Sew,0.00198,0.836,0.0698,-3.533,180.097,0.393,HypeEnergy
+The Woods,1wVNX70jcDdQGedgZm0zRd,0.702,0.238,0.221,-11.746,138.096,0.371,HypeEnergy
+Sweet,2T6SuvI5GJXbJOCM1jweuW,0.344,0.513,0.139,-9.073,96.421,0.449,HypeEnergy
+Dhoom Again,5IUP91X8fKfJnWQgCHT9dN,0.164,0.932,0.383,-6.251,99.97,0.831,DanceEnergy
+She's Thunderstorms,3NGCsi3q6uAYyZCva82ZZs,0.000518,0.898,0.173,-4.906,118.929,0.505,HypeEnergy
+Khamaaj,1yOzcnB0kIli8JttbJFMEK,0.762,0.318,0.107,-13.771,81.002,0.508,Mellow
+Let Her Go,6GmUVqe73u5YRfUUynZK6I,0.365,0.545,0.0963,-7.346,74.897,0.479,Groovy
+Khadke Glassy,3ON7HfN9BnBQAo2CGO9xbJ,0.106,0.95,0.0449,-0.95,104.952,0.884,DanceEnergy
+It's Ok,2Iyfw8YfKruAagJwGc4G07,0.871,0.111,0.103,-15.11,148.191,0.561,Groovy
+Do I Wanna Know?,3rq5w4bQGigXOfdN30ATJt,0.186,0.532,0.217,-7.596,85.03,0.548,HypeEnergy
+Ishq Di Baajiyaan,6gHVMInOPMsA4ujf0nWHSt,0.0233,0.609,0.113,-7.218,154.967,0.722,Mellow
+"Lahore (From ""Lahore"")",5VGINWbl9DKfr8a9QiCeOX,0.17,0.869,0.207,-2.965,95.032,0.787,DanceEnergy
+Intezaar,6p2o4ep90wpkh0qzUmyFuO,0.642,0.466,0.067,-7.721,118.884,0.46,Mellow
+First Class,7trx783SvnHhKkmgSSTIFJ,0.581,0.337,0.0871,-10.189,89.961,0.554,Groovy
+Places We Won't Walk,30QNjcM3Q1GnLFIIJjWQL1,0.969,0.0859,0.108,-16.061,88.253,0.388,Groovy
+Sawan,2EYExMxUzn2FapSlnxDjTn,0.0739,0.697,0.139,-5.083,150.081,0.41,Mellow
+Don't Keep Driving,04JhvPreqxWlAV5SdK4mNo,0.349,0.499,0.127,-6.832,113.476,0.349,Acoustic
+Photograph,1HNkqx9Ahdgi1Ixy2xkKkL,0.607,0.379,0.0986,-10.48,107.989,0.614,Acoustic
+Believer,0pqnGHJpmpxLKifKRmU6WP,0.0622,0.78,0.081,-4.374,124.949,0.776,HypeEnergy
+Wants What It Wants (Blackwatch Remix),6QsIMjVNs5ZbPmlKFjoHku,0.345,0.745,0.286,-8.512,89.264,0.265,HypeEnergy
+Hugging You - 3,7io1erAh1tMxG5VMBC8rVw,0.957,0.037,0.0964,-20.456,77.936,0.4,Acoustic
+Do You Know,1aHRhPwlNTNdMsDcYicxb6,0.155,0.796,0.162,-3.685,85.002,0.697,HypeEnergy
+I Will Follow You into the Dark,2ndWbjiiNBEOrlfToKlABE,0.923,0.163,0.118,-14.686,77.748,0.581,Groovy
+San Francisco Street,5pjWzUc1tVcewUTdDJd6Ce,0.224,0.542,0.0858,-9.102,111.474,0.877,Acoustic
+Saansein,6l1VsKiMyaUWElFrM1rsuu,0.653,0.518,0.138,-9.146,128.041,0.693,Groovy
+Drown,7aLtOxVOUahFU8fO25hWoH,0.518,0.45,0.143,-6.304,137.931,0.622,Groovy
+All of Me,3U4isOIWM3VvDubwSI3y7a,0.922,0.264,0.132,-7.064,119.93,0.422,Groovy
+"Woofer (feat. Snoop Dogg, Zora Randhawa & Nargis Fakhri)",3cvMKd8PNsfNyyXtxWil9o,0.172,0.879,0.792,-4.475,96.016,0.889,DanceEnergy
+Quiet Eyes,2sSggPL7L5gfYU6oar80U9,0.34,0.281,0.115,-12.032,92.711,0.322,Acoustic
+Stronger Than I Was,6MtI49ggHHumUTONlvMQlq,0.121,0.602,0.148,-5.426,121.998,0.781,HypeEnergy
+Pyar Bolda,3RtR0XXNGtBHJkFgY6OvTQ,0.011,0.598,0.289,-6.538,159.83,0.746,DanceEnergy
+Like Toy Soldiers,4csWODGWQtsQwKc7ukTvs6,0.0193,0.768,0.104,-3.489,79.178,0.52,HypeEnergy
+Chasing Cars,11bD1JtSjlIgKgZG2134DZ,0.209,0.592,0.132,-4.571,104.016,0.563,Groovy
+Baari,7cuYb19oTyv1tLTgzH7qpv,0.854,0.538,0.0999,-7.043,79.985,0.651,Mellow
+Mann Kasturi,2j3U8rOgJfuEU14EcABzrd,0.612,0.444,0.177,-12.308,82.555,0.271,Mellow
+Sohnea,5sTmP21XbUw3hyXLmX2L1z,0.395,0.745,0.308,-3.085,119.8,0.757,Groovy
+What's Good,2b6EYZE72QaHr0jbTDbpRF,0.931,0.162,0.103,-14.841,134.492,0.434,Groovy
+East Side Flow,0wGrTrI43CKmfzbFNNhftb,0.109,0.867,0.155,-2.931,151.965,0.767,HypeEnergy
+hollow crown,4SNt7kBpEa9WD3AO22qpmH,0.97,0.219,0.113,-12.715,121.728,0.493,Groovy
+Karam (Equals Sessions),5zWA0flBrTC3VmhjcJ2MZG,0.154,0.717,0.0986,-5.651,95.146,0.406,HypeEnergy
+You Bet I Stare,5OimwnYY2jWdXc3166rJSh,0.35,0.362,0.25,-14.368,130.033,0.628,Groovy
+Aar Nanak Paar Nanak,4twL6khW8atNygs4mc4BUy,0.769,0.673,0.101,-5.688,139.803,0.544,Mellow
+Donna,08uQ0afWImiJrCDB2UoLJW,0.96,0.247,0.119,-10.481,134.121,0.49,Acoustic
+Hoor,4mjTMmz0j6Wl3GhODoPqTx,0.505,0.432,0.278,-7.777,150.148,0.321,Mellow
+Maybe I Was the One,6sczEuJNSAxnHshhzsy2i1,0.295,0.313,0.108,-11.139,78.104,0.558,Acoustic
+Saade Aala,5bjfbVGRF3jmJIBfHMyDAr,0.14,0.907,0.27,-3.035,172.05,0.608,HypeEnergy
+Tere Naina,1AXQ4ZCUueIfGGEYAdq9Pe,0.558,0.74,0.144,-7.019,92.761,0.551,Mellow
+Dus Bahane,1vBmaijoCBoqmwc3zs5n3s,0.175,0.917,0.109,-5.498,110.001,0.833,HypeEnergy
+Lamberghini,7cFuzwgbtHXmSKuCzo0qCW,0.5,0.579,0.0737,-7.257,103.981,0.957,HypeEnergy
+Daru Badnaam,2TzyJEUfWHGRsk3r6Emvbk,0.442,0.676,0.159,-3.893,90.037,0.541,DanceEnergy
+Hollow - 3,2EwNxWFNzZNWXY5NJAsfiw,0.906,0.164,0.104,-12.887,123.194,0.524,Acoustic
+Rolling in the Deep,1eq1wUnLVLg4pdEfx9kajC,0.138,0.77,0.0473,-5.114,104.948,0.73,Groovy
+The Wisp Sings,68RI4I6SKm57SxjG06OYvN,0.988,0.0889,0.0965,-19.457,115.43,0.521,Groovy
+"Ya Rabba (From ""Salaam-E-Ishq"")",7KKRPM4fUsfCkJnd1zPhHf,0.26,0.414,0.0748,-10.933,143.971,0.648,Mellow
+25 To Life,0dyWQoMOU9oERL6c9vxtRp,0.239,0.931,0.194,-0.945,79.996,0.701,HypeEnergy
+Arziyan,3V80Iv04B9XAqGHbXdtRT1,0.297,0.559,0.135,-8.64,139.891,0.582,Mellow
+Dil Luteya Feat. Apache Indian,45S7Va5J6LsiIh8yCbLkA5,0.241,0.775,0.284,-5.951,89.979,0.562,DanceEnergy
+Tommy,4rEY2x2I6NIhXbdFUruwek,0.209,0.793,0.652,-5.66,87.879,0.703,DanceEnergy
+Felt like playing guitar and not singing part 2,04c6EIcUvkRv3xWrBol3J1,0.142,0.71,0.0817,-5.709,120.99,0.775,Acoustic
+Angel Of Small Death & The Codeine Scene,1SCXzqKZdif5b33POmzwI4,0.213,0.638,0.12,-5.754,92.644,0.377,Groovy
+You & Me,1bQhZOoXYqjXs7u7rFXo0h,0.203,0.686,0.102,-6.333,127.015,0.714,HypeEnergy
+Shoot Da Order,36mrWOLr5OS3INC5ThB64F,0.00922,0.697,0.104,-5.249,83.951,0.7,DanceEnergy
+Dilnawaz,2KDR0VRWbQ88LQ1cdi8T3z,0.217,0.568,0.094,-7.968,88.904,0.501,Groovy
+Unstoppable,6rrKbzJGGDlSZgLphopS49,0.00128,0.844,0.14,-3.995,78.001,0.484,Groovy
+Wo Ladki,2EM2vuV1jMHPQZ9SUJSB39,0.176,0.612,0.458,-5.891,129.967,0.678,Groovy
+Too Late For Lullabies,7MsL9a98WUHN76Wks49Zeq,0.371,0.435,0.106,-7.266,160,0.385,Groovy
+Sage,64RkEV5b7bG697vhIPMlrl,0.00434,0.412,0.215,-8.195,98.025,0.663,HypeEnergy
+Bamb Jatt,44n5BPCpt6p1p1upuIOhzb,0.239,0.842,0.102,-4.361,133.965,0.817,DanceEnergy
+Premonition - Intro,6y6wOFqzDl52RAIDcaNXVq,0.0268,0.64,0.383,-5.193,165.993,0.849,HypeEnergy
+"If I Ain’t Got You - James Bay Spotify Session 2015 ""Alicia Keys Cover""",1zJpJ3HPRtAYYNLWm5BJEf,0.743,0.18,0.71,-9.735,117.355,0.638,Groovy
+Dil Mere,6ZmtxXUXRVjxOhugKkmerC,0.842,0.473,0.167,-9.806,92.962,0.655,Groovy
+Jo Tu Na Mila - 3,0TyyNe2BGZ5UOUzSGT4pP2,0.733,0.292,0.094,-8.831,149.604,0.556,Mellow
+Howl,7d7uefLUTOhy9nEfWoBd1G,0.838,0.351,0.122,-14.951,75.056,0.508,Acoustic
+Karam (Equals Sessions),5zWA0flBrTC3VmhjcJ2MZG,0.154,0.717,0.0986,-5.651,95.146,0.406,Groovy
+You Bet I Stare,5OimwnYY2jWdXc3166rJSh,0.35,0.362,0.25,-14.368,130.033,0.628,Groovy
+Los Días Raros,0eVB5kmXBHSKgTYxgI77kq,0.503,0.436,0.118,-9.641,90.114,0.504,Acoustic
+Womaniya,0E1Eq0MNLFLrwvVXRUqkXq,0.011,0.845,0.0462,-6.09,130.034,0.688,Groovy
+Bombay to Punjab,1xoQjCAP6a63tZXbsMziXk,0.117,0.739,0.0534,-4.953,200.081,0.581,HypeEnergy
+Woh Ladki Hai Kahan,2tO0QPdCA0jgDBshTuYYkc,0.172,0.677,0.0446,-8.624,94.985,0.786,Mellow
+Kaun Mera,4137w3YEeQSgz52qxyjxHR,0.416,0.376,0.0954,-9.814,100.969,0.63,Mellow
+Part of Me,2V8Db0suxVDK4fAU8qI2pI,0.571,0.274,0.11,-11.465,110.057,0.696,Acoustic
+Song: Silsila Ye Chahat Ka,5n7KWx7UkcKJUB8GvJCYqj,0.552,0.516,0.407,-10.913,138.698,0.556,Mellow
+Almost Famous,0ANExk8Iu85oqCgk82rG64,0.0253,0.961,0.332,-1.498,82.44,0.537,HypeEnergy
+Tragic Endings (feat. Skylar Grey),107CfwBqfICzcKur8k7UCA,0.429,0.771,0.689,-4.957,80.971,0.634,HypeEnergy
+Can't Pretend,2Q3UgGcvhdaX6k13PDNguP,0.278,0.473,0.117,-8.504,79.517,0.45,Groovy
+Har zulm tera yaad hai,3lz869qyZcRBATTT6r4omU,0.823,0.428,0.519,-11.605,151.529,0.467,Mellow
+Sip Sip,3PKEWXIkFwSJnlGdhjivCP,0.1,0.904,0.269,-4.259,180.022,0.708,DanceEnergy
+Meer-E-Kaarwan,6NKb7NdkJ9mooJl9vVl1Lq,0.415,0.804,0.116,-5.667,95.985,0.509,Groovy
+Lucky You (feat. Joyner Lucas),60SdxE8apGAxMiRrpbmLY0,0.0627,0.786,0.127,-4.884,153.068,0.876,HypeEnergy
+Yeah! (feat. Lil Jon & Ludacris),5rb9QrpfcKFHM1EUbSIurX,0.0183,0.791,0.0388,-4.699,105.018,0.894,DanceEnergy
+Drift,4foK7A3Ceapuw4ruC3UKWu,0.14,0.667,0.0911,-6.655,129.895,0.607,Groovy
+Khudi,3Gc4zbfvgZSBEfpd0aWEFb,0.0196,0.791,0.106,-6.502,127.037,0.626,Groovy
+Stairway to Heaven,0DANcJuMamcL9NyYkEWWTq,0.202,0.479,0.0767,-6.786,97.987,0.392,Groovy
+Badtameez Dil,4eu27jAU2bbnyHUC3G75U8,0.24,0.932,0.216,-2.228,106.019,0.805,DanceEnergy
+It's Gotta Be You,6cAKeFFYW2aClZSUyvqAEW,0.221,0.745,0.0981,-4.632,95.472,0.433,Acoustic
+Colour Me,6MfsJgg1gTRxLbmh0ZZYi4,0.591,0.327,0.356,-8.364,80.578,0.54,Acoustic
+Tajdar-E-Haram Coke Studio Season 8,2TuNVD5u5iAslHp0moLlTn,0.237,0.554,0.116,-6.635,100.059,0.436,Mellow
+Green Mountain State,0c7iF5fSBYxCuwsAv2z4iI,0.351,0.367,0.111,-11.66,129.879,0.693,Mellow
+Stars,4JUYaHt43h8SZQ4lYGsGJP,0.916,0.056,0.114,-18.361,172.75,0.381,Groovy
+Was I Just Another One,1WCwH2Lps0FvmiLpNdvMpk,0.507,0.278,0.112,-12.912,130.961,0.281,Acoustic
+Sajna Ji Vaari Vaari,66wEHvHkE7iz73PEob4Y98,0.079,0.904,0.198,-8.399,143.987,0.735,Mellow
+Kahin Main Tha,56PLZgkeT1GgQOrYxpF2vK,0.78,0.49,0.0843,-10.823,136.985,0.614,Mellow
+No Diggity,0PB8KUQHpc7GveSOaWhGwb,0.678,0.77,0.116,-4.795,160.006,0.575,Groovy
+Thin,7swTZr50nSpeq9469IJ9LI,0.511,0.406,0.121,-9.732,97.021,0.604,Groovy
+Tune Jo Na Kaha,0pw3p4gf5homOkvOGOJulF,0.779,0.475,0.34,-12.38,78.992,0.314,Mellow
+cold/mess,4Psh3fEnAMftNPOTsAHPgG,0.285,0.479,0.167,-6.601,145.967,0.509,Acoustic
+"Kabira (Encore) [From ""Yeh Jawaani Hai Deewani""]",6qlZ2RQhKb9JMd63tEdfaL,0.438,0.612,0.18,-7.978,171.838,0.613,Groovy
+Where's the Party Tonight,6ECucSdJeJmSm3k1k3Vumv,0.00269,0.863,0.27,-5.414,132.021,0.764,DanceEnergy
+No Name,1VdpZNbiJSanywxJIo21A9,0.747,0.327,0.102,-7.272,110.244,0.355,Groovy
+Nach Baliye,7AJtoJnHV80IMEHgQs6YvU,0.029,0.916,0.121,-5.313,133.889,0.691,DanceEnergy
+Flaws,2X01OHYkSP7t7jXyAULmbZ,0.918,0.146,0.11,-11.845,113.856,0.277,Groovy
+Temporary Love,2U6hcDLZHYRSd9Up0mMe9W,0.656,0.555,0.11,-7.55,102.971,0.714,Groovy
+It Wasn't Easy To Be Happy For You,092F4qgjmKNXeMZxWeeQAn,0.854,0.373,0.0949,-5.321,89.099,0.765,Mellow
+Cake By The Ocean,0ESnKwgjWBD9wnCbZpY3g4,0.156,0.748,0.0517,-5.461,118.996,0.773,Groovy
+"Nai Lagda (From ""Notebook"")",5NdVbWjNxxzv3SMxtINLu2,0.669,0.548,0.0849,-7.145,153.794,0.514,Mellow
+Tu Hi Hai,5b9x5sRIzAgXQw0dhGORO1,0.387,0.501,0.095,-7.389,93.978,0.707,Mellow
+Was It Something I Said,65j65yDSE06CNKAPjsHoJt,0.618,0.724,0.157,-6.775,106.994,0.587,Groovy
+All Day Long,6yRa16hOVzT0mddORCkkAj,0.0903,0.626,0.0331,-7.422,98.967,0.776,Groovy
+Inch,6gCjeZnpcKkowAw9WjFpFJ,0.194,0.968,0.582,-2.801,171.292,0.78,Groovy
+Maybe I Was the One,5ZLNu8epuCoh71W6RiFngs,0.945,0.149,0.106,-21.734,127.543,0.457,Acoustic
+Phir Se Ud Chala,1kcV2LJxt5v0s2cEGtEJ5i,0.657,0.656,0.343,-8.632,119.965,0.647,Groovy
+Alone with You,68A8M94uf0m5bM5sxf3Tn8,0.798,0.274,0.103,-12.564,86.672,0.553,Groovy
+Mice,1wcAKUbAyMRy0uSsFbyiCv,0.695,0.195,0.0851,-12.569,122.908,0.65,Groovy
+Dastaan - E - Om Shanti Om,4IPzzBnFrGrlijBWY0JDYB,0.479,0.598,0.0806,-6.052,135.951,0.552,HypeEnergy
+Bloom (Online Bonus Track),44alNkXsYnTyPnkMdohBcx,0.894,0.421,0.119,-9.792,95.969,0.581,Groovy
+Maria,02IzyNFIbOqr7HruSSPXuI,0.229,0.86,0.116,-6.374,168.523,0.435,Groovy
+Dil Lagaayein,3n8JNedDnSMJM9v3w8VsCl,0.448,0.47,0.19,-5.396,145.957,0.342,Mellow
+Pehli Baar Mohabbat,58xpZwxUpgrnJMTEmvkZMP,0.408,0.478,0.101,-10.826,160.029,0.522,Mellow
+Call Back Home,1wbvx7mEoyTPnxlwa56SQi,0.363,0.455,0.109,-8.165,113.025,0.727,Acoustic
+Stay,3MvxfjbmBq4Q3PlmNgiQEH,0.306,0.663,0.11,-7.984,180.008,0.608,Groovy
+LEAN BACK,1Ws4MU26mYa0Ra77G2cnpP,0.0692,0.876,0.36,-3.07,83.987,0.508,HypeEnergy
+These Cold Nights,6sT74ZUI79YngZKOE5mbux,0.679,0.413,0.151,-9.685,93.006,0.67,HypeEnergy
+Dillagi,4faUCG0CdNgMx0NkMMseOl,0.385,0.759,0.162,-4.029,139.986,0.585,Mellow
+Hands I Can Hold,4Oqr64wBKOCiP4m1gDpmYk,0.831,0.432,0.563,-10.702,124.766,0.539,Acoustic
+Old Skool,1pZbjOj49hg04l9VBO97hp,0.208,0.601,0.271,-6.958,87.971,0.776,DanceEnergy
+Dandelion Wine,5AeoHJUx0PJXAzN425xryh,0.762,0.11,0.0823,-16.384,110.95,0.39,Acoustic
+Break My Heart Right,6BP8sg44smNB3pbD4QAOzi,0.962,0.103,0.0915,-11.6,113.61,0.63,Acoustic
+Morniyee,4B9RDZ3UlOXmbsYqAbj9e1,0.0491,0.86,0.454,-4.176,173.937,0.636,DanceEnergy
+Best Friend,069VGijrAsQVSY9ihFv1Px,0.0174,0.906,0.0551,-5.028,135.96,0.75,HypeEnergy
+Slow Dancing in a Burning Room,2jdAk8ATWIL3dwT47XpRfu,0.573,0.361,0.0805,-8.69,134.15,0.668,Mellow
+Please Notice,36seMHoyXmLUNxcwzwjdF7,0.843,0.271,0.107,-8.451,111.344,0.55,Mellow
+Sohne Lagde,4uP5KkYk4DdprU4sXqb3qU,0.354,0.716,0.109,-5.651,84.382,0.589,Groovy
+Black & Blue,05TtxghZSGczxqdRQrAf0C,0.518,0.353,0.137,-8.323,82.155,0.668,Acoustic
+All Out of Love,2lmcH6prYo3BlR8LfRUJc3,0.077,0.513,0.494,-6.473,108.371,0.502,Groovy
+A Little While,1ahzHj4rfljE8w4ZwpEjOM,0.182,0.604,0.205,-7.84,99.997,0.577,Groovy
+"You Are My Soniya (From ""Kabhi Khushi Kabhie Gham"")",0vt3DlLY9G276aK4p29yRT,0.29,0.785,0.0589,-6.08,106.046,0.853,Mellow
+Challa,2r6UZZ1JdRsDlfIQHKDjST,0.105,0.718,0.118,-5.039,98.019,0.762,DanceEnergy
+New Light,3bH4HzoZZFq8UpZmI2AMgV,0.325,0.689,0.0808,-7.878,123.931,0.828,Groovy
+"Never Seen Anything ""Quite Like You"" - Acoustic",018Idkvf82hi44UZmIXiGB,0.799,0.398,0.114,-8.01,79.874,0.444,Groovy
+From Eden,0bkW98npv8EsWQ2fXFzK56,0.608,0.676,0.117,-5.46,142.929,0.395,Groovy
+Faces,1Oib8zZLTFqOadLKcpjjsU,0.906,0.142,0.354,-15.721,128.14,0.462,Acoustic
+Generation Why,79e2GU4RLPjAqnijfvsXYr,0.347,0.684,0.122,-8.235,81.977,0.561,Groovy
+Mauja Hi Mauja,2iXVckhPy7tP0wV9DvlrjZ,0.075,0.873,0.225,-5.659,104.983,0.738,DanceEnergy
+Girl in Calico,2XiZN924Dye5VCgl2skr5M,0.828,0.192,0.076,-13.585,94.045,0.431,Acoustic
+"Shamas-Ud-Doha, Badar-Ud-Doja",5OIYym6DHws0OnF4BGxn2x,0.496,0.638,0.0746,-12.919,102.529,0.4,Mellow
+Budapest,5vEsY3FiB5AyeUbPl7ymnW,0.0264,0.612,0.0895,-9.289,100.01,0.768,HypeEnergy
+Apocalypse,7McZS9J6h0SKoZBR6cfcFe,0.0211,0.465,0.109,-9.017,94.435,0.369,Acoustic
+How Good It Is,0zUMDWaea24Yl5z8Ku4xWC,0.573,0.394,0.0975,-5.978,113.157,0.647,Acoustic
+Sugar,5eWgDlp3k6Tb5RD8690s6I,0.0553,0.783,0.086,-7.077,120.042,0.744,Groovy
+Lifesaver,57lRiv0RlCe3xTwtuh4qiE,0.00743,0.682,0.17,-5.031,148.062,0.454,Groovy
+Ghost Of You,1MhXdlCQPnO56T57MfmaRm,0.0965,0.561,0.156,-4.819,149.875,0.458,Groovy
+It's the Time to Disco,3hCUkos0NxuSFl73oOHJzb,0.0452,0.772,0.12,-8.29,131.992,0.902,DanceEnergy
+Girl - Acoustic,67QWinkLRgRO4s5n3UEpu8,0.945,0.272,0.112,-11.568,109.687,0.413,Acoustic
+Oceans,5eXnC2B5RU5fAhfwvV2ABD,0.267,0.462,0.101,-9.1,129.026,0.372,Groovy
+Waqt Ki Baatein,1lIYP8fDGGnp91OMTUnwjV,0.916,0.205,0.112,-16.452,145.004,0.555,Mellow
+Lights Are On,4IhTXiZLKATmwhMZIb1GQN,0.981,0.04,0.111,-16.887,135.965,0.44,Groovy
+Not Afraid,7Ie9W94M7OjPoZVV216Xus,0.529,0.954,0.205,-1.19,114.635,0.855,HypeEnergy
+Coat of Armour,3IUEZsFIQv3QbE5K15SbJu,0.721,0.333,0.133,-10.782,79.05,0.388,Groovy
+I Can't Relate,1Mp76fZm633qPZftr4MXa3,0.947,0.362,0.12,-10.336,137.966,0.507,Groovy
+Take It Slowly,3IokvkvziERLZnkZVIf4qj,0.876,0.202,0.0887,-13.626,134.687,0.474,Acoustic
+Talk to Me,2IULJbqh7quslAcYqv10fl,0.1,0.54,0.0649,-8.488,98.506,0.729,Acoustic
+All I've Ever Known,7I8ftQPSknxqIH8jiuh6iv,0.688,0.202,0.108,-11.16,126.05,0.681,Acoustic
+Teeth,1JRK7srBWUtAW7dPabKBwJ,0.0508,0.448,0.11,-2.993,139.028,0.755,Acoustic
+Arsonist's Lullabye,1UWhx0pFZccP4jdCIZsj7U,0.673,0.373,0.118,-10.666,64.831,0.463,Groovy
+Mess,1BlQWQgGP84r4GYUVty4Ar,0.176,0.826,0.0978,-5.32,80.848,0.442,HypeEnergy
+Khadke Glassy,7E2iTG33dfcHlxldckKQIi,0.106,0.95,0.0449,-0.95,104.952,0.884,DanceEnergy
+with you / for you - Audiotree Live Version,2Y2n0mjJfMJwL7gDMnjVWe,0.9,0.0911,0.105,-16.138,112.263,0.778,Acoustic
+Kalli Ho Gai,4BtjIWrpjmHZb4rQDY0CwX,0.322,0.664,0.376,-4.254,78.457,0.509,HypeEnergy
+Dil Kyun Yeh Mera,5nHwX7e5XHnie22nuTFgda,0.613,0.382,0.149,-6.183,125.918,0.486,Mellow
+Twisted,1FJYqedfrSGitGHMvwRGBg,0.287,0.527,0.367,-6.972,177.853,0.58,HypeEnergy
+John Wayne,5IonbH68pmDKBwcKlyswmR,0.35,0.457,0.099,-8.375,124.033,0.429,Acoustic
+Koi Kahe Kehta Rahe,5zKRKQwLVBT1WDJE7XJrnm,0.00166,0.734,0.108,-7.058,131.975,0.749,Mellow
+Yeh Dil Pagal Dil Mera,7r18KvuIeb5fhPozB04iwD,0.773,0.285,0.667,-16.308,108.386,0.665,Mellow
+Kahin To,3E424W0IJS3ypZ4YOxE0Jn,0.334,0.492,0.0979,-7.55,90.984,0.61,Groovy
+Kya Baat Ay,1ZaeaGLhFSckG8sv1y7AWk,0.632,0.592,0.108,-4.309,89.966,0.849,DanceEnergy
+Trending Nakhra,42NUrjx6cy23vTp2JyUawT,0.323,0.696,0.107,-4.778,183.982,0.712,DanceEnergy
+Set for Life,3qu71dQbnNasqBeGGqwV0Y,0.856,0.299,0.128,-12.35,113.972,0.689,Groovy
+Stronger - Acoustic,4iip1qIgTsVQGNNXxpYV09,0.851,0.25,0.134,-11.683,85.439,0.59,Acoustic
+Haawa Haawa,7gUhBUzFbGRYGgtDubhTSG,0.465,0.695,0.0992,-7.112,145.022,0.739,Groovy
+"Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",4HTqdAfx5jRQuB8ItBifrm,0.738,0.335,0.686,-11.149,88.166,0.465,Acoustic
+Same Beef,65c6VCikt7f5sAS1heoYQC,0.0462,0.854,0.21,-4.958,91.992,0.779,DanceEnergy
+Autumn Town Leaves,4xI1VwZa8u3ymeS8hsHKed,0.857,0.32,0.144,-15.104,115.724,0.657,Acoustic
+Ki Banu Duniya Da,7HnwhJkRpI50fUow1Uuo2V,0.337,0.921,0.0628,-5.292,175.96,0.609,Mellow
+Trying My Best,06qUEhhx6jKQmhj2qAkn4H,0.95,0.0587,0.0828,-17.819,143.027,0.561,Groovy
+slumber,5C39INjD02NFaAbTrGqd2F,0.83,0.285,0.168,-11.68,131.833,0.541,Groovy
+Khidki,3o4S1N71gzW18rKgNkAlk1,0.2,0.755,0.0646,-5.243,144.846,0.763,Groovy
+I Wrote You a Letter,6MjDnmBgbCu2UfDK0DRczh,0.133,0.217,0.129,-15.251,89.868,0.462,Acoustic
+Chehra Tera,5dAcq8UqOvdYELtShE6NmM,0.495,0.639,0.0964,-3.782,139.315,0.474,HypeEnergy
+Kaal Dhamaal,1Aj3mTJznujGX2ov6Op1cZ,0.154,0.925,0.0497,-7.154,99.954,0.642,HypeEnergy
+Got It In You - Acoustic,4unF8ldGPeedLz8HRIvgxg,0.725,0.354,0.118,-5.722,72.049,0.58,Acoustic
+Work Song,35PKfoynRpVFoAUE3D5Kc6,0.776,0.388,0.112,-7.687,177.549,0.432,Groovy
+Sinbad The Sailor,03VTytguq5MS6e3x03y5i1,0.415,0.871,0.349,-6.073,134.921,0.592,HypeEnergy
+Saibo,6udC4b4jOSnHb9ItnXgKLR,0.736,0.428,0.136,-7.867,90.056,0.619,Groovy
+Love Is a Bitch,6MiVIH3fQlmz44jGx2DXn4,0.614,0.178,0.0985,-9.754,149.879,0.532,Groovy
+"Dil Jaaniye (From ""Khandaani Shafakhana"")",6OiwkYdtlTXGAlLQ65SJsP,0.511,0.601,0.0977,-6.847,100.07,0.653,Mellow
+Dard Apna Likh Na Payee,5zUyFopi0GxI0Q7VUeK0I9,0.665,0.495,0.097,-7.231,85.988,0.487,Mellow
+Natural,2FY7b99s15jUprqC0M5NCT,0.217,0.611,0.0812,-6.112,100,0.704,HypeEnergy
+El Sueño (feat. Tru-Skool),4xxLLbEcA3mMwpzvBWjVTR,0.405,0.634,0.0845,-5.491,87.341,0.724,DanceEnergy
+Waves - Guitar Acoustic,0SUih4u16BlTsIDyB7J0SU,0.935,0.285,0.11,-9.918,151.739,0.412,Groovy
+Aashiyan,7ttlemwytO21npSmLKqTBg,0.294,0.622,0.167,-7.291,131.969,0.829,Acoustic
+BLUE,3ne8aXLTHtwrdtpItqCgfT,0.00722,0.807,0.119,-4.187,115.954,0.833,Groovy
+Gallan Mithiyan,2jcimMA5XEwEOaMpcyVfc4,0.577,0.905,0.0456,-1.863,77,0.665,DanceEnergy
+Mere Yaar,6wxm92a18bGEP5N4QusCIx,0.191,0.508,0.278,-9.748,78.131,0.343,Groovy
+Start a Riot,6V81K1OcvYgHEnCA6A2Qx9,0.0128,0.727,0.0882,-3.585,143.144,0.728,HypeEnergy
+Looking Up,7ezGYRSrMOywKamZ0LPVwR,0.00272,0.822,0.169,-4.424,92.046,0.61,Groovy
+Airplanes Part II,777IlYDS2zkE4VfsUQFg5s,0.00298,0.87,0.0671,-4.705,93.064,0.685,HypeEnergy
+Nadaan Parinde,6Z394Nd4gW6Ts9hmu3NUjx,0.414,0.741,0.107,-7.456,132.903,0.507,HypeEnergy
+Marz,3PMQvsVUEOMWsEGsSGG0aA,0.479,0.599,0.12,-7.293,71.798,0.433,HypeEnergy
+Ophelia,5NORWMFC27ywGSZxi8uquP,0.613,0.573,0.0857,-6.519,76.023,0.664,Acoustic
+I Don't Wanna See You Cryin' Anymore,75GzLKzGuCPSayNucAoSC6,0.874,0.414,0.132,-11.931,77.948,0.664,Acoustic
+"Dollar - From ""Dakuaan Da Munda""",7rXDc2ImBGwcypUFbNqbFB,0.0606,0.829,0.38,-4.225,94.961,0.612,DanceEnergy
+Dandelion Wine,3Qb06Q7qaypiBPFgpff9DK,0.747,0.187,0.1,-14.013,82.93,0.213,Acoustic
+Sleep On The Floor,44uOreAESeRIBaxkuCW4wN,0.249,0.431,0.13,-8.061,142.14,0.389,Acoustic
+Subhanallah,0GQngE2rOYvlKwEQjTAsP8,0.452,0.494,0.134,-5.041,88.586,0.302,Groovy
+Suit Punjabi,4ABpbQYQViHy9vSA7B0Jxg,0.499,0.912,0.413,-4.724,148.023,0.762,HypeEnergy
+Echo,3ko0QVFzy4DdhuqTbMIeJZ,0.179,0.847,0.254,-3.413,147.016,0.548,HypeEnergy
+Khawab Ban Ke Bikharti Jati Hai,3nPez09I43hLdYiNPB2XUO,0.2,0.637,0.0806,-9.817,79.087,0.543,Mellow
+Someone To You,14BH4qO7pgCmIe6mgLKOK3,0.00568,0.936,0.24,-3.683,75.05,0.468,Acoustic
+Such Great Heights,6kLqKntp2x4QVXHwqLHMYm,0.808,0.275,0.403,-10.644,94.088,0.61,Acoustic
+Mitwa,4BTPzhEsyW3blWcxcuhLM0,0.295,0.63,0.0934,-7.525,107.103,0.63,Mellow
+Hothon Se Chhu Lo Tum - From Prem Geet,4mBmsPcPa1Eu4LDTHq55Ab,0.844,0.327,0.118,-13.651,98.225,0.557,Mellow
+The High Road,5cwN1htZyoWqZCc33f3RfE,0.0682,0.637,0.284,-6.574,79.955,0.61,Groovy
+Love Like This,06JmNnH3iXKENNRKifqu0v,0.903,0.129,0.107,-11.89,139.742,0.637,Groovy
+Cringe - Stripped,1FCwkiooaMCY8YpQdSJ0Gc,0.876,0.276,0.103,-8.901,126.135,0.752,Groovy
+Talk,29bXfCo3mQVzohwPJXohaU,0.179,0.538,0.113,-6.503,154.342,0.397,Mellow
+Dropping,0KXtlV0rxejQMaahXvzPEM,0.645,0.23,0.0991,-12.341,137.826,0.681,Mellow
+Sunflower - Spider-Man: Into the Spider-Verse,3KkXRkHbMCARz0aVfEt68P,0.556,0.479,0.0703,-5.574,89.911,0.76,HypeEnergy
+Gustaakh,3uIemACmoVRUvjZBrqXbWk,0.00043,0.875,0.103,-5.133,142.997,0.504,Mellow
+Words In The Fire,3inDVj0SVwkT4RkpXEzKmT,0.904,0.362,0.122,-12.083,124.886,0.542,Acoustic
+Jogi,0h0gWburhWxIhV9h7kyX3l,0.276,0.648,0.069,-6.5,80.03,0.55,HypeEnergy
+Whatever It Takes,6Qn5zhYkTa37e91HC1D7lb,0.0362,0.655,0.117,-5.021,134.945,0.672,HypeEnergy
+Lighthouse,7vAWl3vsznaYaYSwIII0Dm,0.773,0.218,0.0938,-10.791,125.899,0.557,Groovy
+Jind Mahi,3SJVCbBFTxR6UvvTWRNbMp,0.286,0.705,0.113,-4.358,139.924,0.73,DanceEnergy
+Crush,17EqzktazJToYJEuc0I9Uo,0.0827,0.502,0.112,-8.564,100.08,0.409,Acoustic
+Shallow,2VxeLyX666F8uXCJ0dZF8B,0.371,0.385,0.231,-6.362,95.799,0.572,Acoustic
+Long Way Down,1uVk6S6Fpkrmji0iTpgKEC,0.972,0.121,0.0871,-13.778,132.244,0.367,Groovy
+Jatti Jeone Morh Wargi,3YikBQVdIZ8azTBglbehVu,0.122,0.777,0.0725,-6.338,89.972,0.806,Mellow
+So Much Better,6dJRP4pXk4SOzWfhfHL3Or,0.252,0.858,0.628,-1.366,84.497,0.719,HypeEnergy
+Utican,2nlqFOnSp8TAqzi7KYnrRC,0.906,0.577,0.126,-6.565,145.688,0.449,Groovy
+All I Want,2jTidefcsTu6VQhpIImJrt,0.172,0.412,0.0843,-9.733,86.26,0.209,Acoustic
+Para Para Hua,6cSrBzC2LM0KjsxRI83mik,0.762,0.353,0.49,-11.203,79.037,0.376,Mellow
+Zombie,2IZZqH4K02UIYg5EohpNHF,0.0154,0.635,0.366,-8.957,166.973,0.307,HypeEnergy
+Reckless Lover - Acoustic,3cmcy7BwekXhIzysIdhLng,0.855,0.222,0.107,-10.381,111.411,0.633,Acoustic
+Time of Our Lives,2KcAwEm9VrpJFsJH6MKOCv,0.748,0.317,0.102,-13.338,79.935,0.34,Acoustic
+Coastline,2KCqAdd2ad0hpJc5ySoTE8,0.627,0.496,0.0584,-11.23,100.17,0.67,Acoustic
+Say You Won't Let Go,5uCax9HTNlzGybIStD3vDh,0.695,0.557,0.0902,-7.398,85.043,0.358,Acoustic
+You Already Know,0QUiguzo0mWdlBk6Nvujic,0.916,0.207,0.101,-16.176,95.466,0.662,Acoustic
+Backbone,4t77OsiudWy4timV32lPa2,0.053,0.828,0.135,-2.495,84.659,0.501,DanceEnergy
+Aaj Jane Ki Zid Na Karo (Live),4alS0xW23tUwqscT8CkPM3,0.867,0.289,0.893,-14.411,107.084,0.55,Mellow
+Pieces,2LBhwMS0iYId8BWfNIiOuG,0.92,0.289,0.124,-9.83,108.098,0.551,Groovy
+Gooey,1gk3FhAV07q9Jg77UxnVjX,0.736,0.369,0.0925,-13.424,183.114,0.487,Groovy
+Viah,12V0iduYsoXxsQYTSeFB2H,0.00733,0.757,0.111,-6.73,169.975,0.533,HypeEnergy
+Please Never Fall in Love Again,42H6GeQfrBkT3vTUTdpB1M,0.838,0.0828,0.0934,-16.205,108.826,0.646,Acoustic
+Illegal Weapon,3Oe3VdPn6rAueriQvFhCBA,0.488,0.666,0.108,-6.555,94.02,0.814,DanceEnergy
+Waking Up Easy,1mupwOlwPPnX76edNnu2H1,0.236,0.564,0.112,-5.497,119.985,0.82,Groovy
+Yeh Pal,51Gk1czQl7NjX0jHwawO1G,0.834,0.204,0.109,-15.955,117.997,0.752,Acoustic
+What Side Of Love - Acoustic Version,6SwBFQFjgwdYomUy6kLTrH,0.392,0.231,0.136,-9.193,141.717,0.783,Groovy
+Things We Lost In The Fire,2oTdiDj4AawNeeYFz8bipG,0.0636,0.918,0.267,-4.878,134.055,0.587,Groovy
+Slide,5QY4JhMKx4aBAaZcosncqd,0.894,0.23,0.0934,-8.22,125.822,0.497,DanceEnergy
+You Don't Wanna Be This Way,4V1a3Q9QI6L9b4kGG7xNba,0.56,0.413,0.0867,-11.163,106.129,0.584,Groovy
+Vaaqif,0vCxpIQ1ypPPasPuksuKBX,0.195,0.499,0.135,-8.976,117.01,0.542,HypeEnergy
+In the Blood,77Y57qRJBvkGCUw9qs0qMg,0.386,0.657,0.0983,-6.526,80.007,0.546,HypeEnergy
+Big Black Car,3Kj2EWpIBnvETsYq4cq0IH,0.897,0.183,0.103,-16.069,110.029,0.572,Groovy
+Lost The Game,0IZRLxomNJV9mb13uVJ2Lj,0.391,0.651,0.25,-6.378,179.662,0.343,Groovy
+Little Do You Know,1almCHdsfikRPfVB9VrEdT,0.746,0.292,0.188,-8.554,145.879,0.5,Acoustic
+Hint,3w6SuEVkg0jFo8FG0YBELz,0.0445,0.581,0.262,-6.557,176.057,0.665,DanceEnergy
+La Lune,0DwaOWI1kC2s98qLj0LTDd,0.882,0.342,0.0748,-11.879,52.001,0.296,Groovy
+Gangland,4UY2GSXlMHfrfvPbBdlRDv,0.149,0.914,0.119,-3.603,89.933,0.746,DanceEnergy
+Something Wrong,2jlPMNMojBNtGZTnSuXItA,0.729,0.384,0.185,-8.651,90.123,0.564,Groovy
+"If I Go, I'm Goin",1vqtj4c5aNPKkLS2LXkd4E,0.762,0.0672,0.109,-17.285,114.059,0.496,Mellow
+Bas Yahan,4B5LQW1ydseberjELe4rrd,0.772,0.421,0.0973,-8.681,124.897,0.565,Mellow
+Lost In The Light,6IBpFG2LU2udYofIuROp3w,0.793,0.267,0.111,-8.796,75.533,0.596,Mellow
+Homicide (feat. Eminem),7M2tXmeS15NAzEn7ABFeBg,0.137,0.759,0.167,-5.667,140.055,0.694,HypeEnergy
+Back Around,5KaE5Ll6SP8TBCh4fG6fCw,0.629,0.537,0.0798,-6.885,65.577,0.529,Groovy
+Lehanga,1NDKkQsf7XlNYLzmGIAO6e,0.157,0.639,0.242,-5.215,94.132,0.693,DanceEnergy
+Dance Like,36EPfDEkfLYQLt8Fvced8x,0.38,0.818,0.301,-2.92,100.066,0.862,DanceEnergy
+Fanaa,2GAfZQRZCr5OyuZbYjMqb9,0.0239,0.807,0.204,-9.05,135.957,0.646,DanceEnergy
+Sink,3lTxG17fsMrjrNkTNJ9NaZ,0.421,0.471,0.11,-9.046,165.055,0.565,Groovy
+Snow,0J7taZOdNklo0DRfDxDzXi,0.167,0.564,0.113,-7.814,105.729,0.743,Groovy
+KMAG YOYO,54BYHlZdV2QsnoPPSnAK8t,0.00148,0.93,0.587,-3.181,176.936,0.306,HypeEnergy
